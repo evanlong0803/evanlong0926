@@ -1,5 +1,1 @@
-
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://pagespeed-insights.herokuapp.com/?url=https://ankurparihar.github.io" width="400"/>
-  <img alt="LeetCode Stat Card" src="https://pagespeed-insights.herokuapp.com/?url=https://ankurparihar.github.io" width="400"/>
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eevanlong)](https://github.com/anuraghazra/github-readme-stats)
