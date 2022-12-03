@@ -1,3 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanlong0926&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+🐱 Hi there! I'm EvanLong
+A frontend developer freelancer.
 
+My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=vue,ts,nuxtjs,nestjs)](https://skillicons.dev)
